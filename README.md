@@ -1,4 +1,5 @@
 workflow:
+someone to deobfuscate and recontruct the javascript
 recreate the primary website, 	
 recreate the video player, 	
 add functionality for playback, 	
